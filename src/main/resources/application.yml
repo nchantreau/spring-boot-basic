@@ -1,0 +1,10 @@
+server: 
+  port: 8081
+
+my: 
+  config:
+    person: 
+      name: Joe
+      lastname: Hamilton
+      address: 
+        street: Place de la gare
